@@ -1,0 +1,132 @@
+body{
+	width:100%;
+	margin: 0;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+ }
+.banner{
+	background-color:#2E2E2E;
+	background-size: 100% 132%;
+	height:100px;
+	border-top: 8px solid black;
+}
+.banner nav li{
+	position: relative;
+	float: left;
+	color: #BEBEBE;
+	margin: 0;
+	padding-top: 0%;
+	text-decoration: none;
+	padding-left: 50px;
+}
+.banner nav li:hover a{
+	color: #FF0080;
+	text-decoration: none;
+}
+.barra{
+	float: left;
+	margin-left: 40%;
+	margin-top: -2%;
+}
+h1{
+	padding-top: 3%;
+	font-family: "Dosis";
+	height: lighter;
+	color:white;
+}
+span{
+	font-weight: 2px bold;
+}
+.nav{
+	margin-left: 200px;
+	padding-top: 
+}
+.banner nav a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+.fondoce{
+	background: skyblue;
+	height: 1000px;
+}
+.paisaje{
+	height: 420px;
+	width:600px;
+	padding: 4%;
+}
+.center{
+	background: white;
+}
+.parrafo{
+	position: relative;
+	float:left;
+	margin-left: 600px;
+    margin-top: -400px;
+
+}
+.text{
+	color:#2E2E2E;
+	font-size: 25px;
+}
+.paf1{
+	padding-top: 10px;
+	font-size: 15px;
+}
+.paf2{
+	padding-top: 10px;
+}
+.read{
+	margin-top: 10px;
+	width: 120px;
+	height: 30px;
+	background: #848484;
+	border-radius: 16px;
+	text-align: center;
+	color:white;
+	font-family: "Dosis";
+	padding-top:1%;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+.lat{
+	padding: 32px;
+	color:black;
+	color:gray;
+}
+h4{
+	color: black;
+}
+.first{
+	float: left;
+	position: relative;
+	margin-left: 50px;
+	padding-bottom: 15px;
+
+}
+.segundo{
+	margin-left: 600px;
+	margin-top: -310px;
+    float: left;
+	position: relative;
+	padding-bottom: 15px;
+
+}
+.login{
+	margin-top: 10px;
+	width: 120px;
+	height: 30px;
+	background: #848484;
+	border-radius: 16px;
+	text-align: center;
+	color:white;
+	font-family: "Dosis";
+	padding-top:1%;
+	margin:auto;
+}
+
